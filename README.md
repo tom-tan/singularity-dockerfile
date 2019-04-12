@@ -1,5 +1,4 @@
 # Dockerfile for singularity
-
 ## How to build
 ```console
 # docker build --squash -t singularity .
